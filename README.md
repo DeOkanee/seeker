@@ -33,7 +33,8 @@
   </a>
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Konsep di balik Seeker sederhana, sama seperti kami meng-host halaman phishing untuk mendapatkan kredensial mengapa tidak meng-host halaman palsu yang meminta lokasi Anda seperti banyak situs web berbasis lokasi populer. Baca lebih lanjut di Blog thewhiteh4t .Pencari Menghosting situs web palsu yang meminta Izin Lokasi dan jika target mengizinkannya, kita bisa mendapatkan:
+
 
 * Longitude
 * Latitude
@@ -42,7 +43,7 @@ Concept behind Seeker is simple, just like we host phishing pages to get credent
 * Direction - Only available if user is moving
 * Speed - Only available if user is moving
 
-Along with Location Information we also get **Device Information** without any permissions :
+Seiring dengan Informasi Lokasi, kami juga mendapatkan **Informasi Perangkat** tanpa izin apa pun:
 
 * Unique ID using Canvas Fingerprinting
 * Device Model - Not always available
@@ -57,16 +58,15 @@ Along with Location Information we also get **Device Information** without any p
 * Local IP Address
 * Local Port
 
-**Automatic IP Address Reconnaissance** is performed after the above information is received.
+**Pengintaian Alamat IP Otomatis** dilakukan setelah informasi di atas diterima.
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+**Alat ini adalah Bukti Konsep dan Hanya untuk Tujuan Pendidikan, Pencari menunjukkan data apa yang dapat dikumpulkan situs web jahat tentang Anda dan perangkat Anda dan mengapa Anda tidak boleh mengeklik tautan acak dan mengizinkan izin penting seperti Lokasi, dll.**
 
-## How is this Different from IP GeoLocation
+## Apa Bedanya dengan IP GeoLocation
 
-* Other tools and services offer IP Geolocation which is NOT accurate at all and does not give location of the target instead it is the approximate location of the ISP.
+* Alat dan layanan lain menawarkan Geolokasi IP yang TIDAK akurat sama sekali dan tidak memberikan lokasi target melainkan perkiraan lokasi ISP.
 
-* Seeker uses HTML API and gets Location Permission and then grabs Longitude and Latitude using GPS Hardware which is present in the device, so Seeker works best with Smartphones, if the GPS Hardware is not present, such as on a Laptop, Seeker fallbacks to IP Geolocation or it will look for Cached Coordinates.  
-
+* Seeker menggunakan HTML API dan mendapatkan Izin Lokasi dan kemudian mengambil Bujur dan Lintang menggunakan Perangkat Keras GPS yang ada di perangkat, sehingga Pencari bekerja paling baik dengan Ponsel Cerdas, jika Perangkat Keras GPS tidak ada, seperti di Laptop, Pencari mundur ke Geolokasi IP atau akan mencari Koordinat Cached.
 * Generally if a user accepts location permsission, Accuracy of the information recieved is **accurate to approximately 30 meters**
 
 * Accuracy depends on multiple factors which you may or may not control such as :
