@@ -2,11 +2,11 @@
 
 <p align="center">
     <a href="https://twitter.com/thewhiteh4t">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+      <img src="asset/seeker.jpg">
     </a>
     &nbsp;
     <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
+      <img src="asset/linux.png">
     </a>
     &nbsp;
     <a href="https://thewhiteh4t.github.io/">
