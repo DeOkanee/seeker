@@ -1,24 +1,11 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="asset/seeker.jpg"></p>
 
-<p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
-      <img src="asset/seeker.jpg">
-    </a>
-    &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="asset/linux.png">
-    </a>
-    &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
-      <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
-    </a>
-</p>
 
 <p align="center">
   <br>
   <b>Available in</b>
   <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
+  <img src="asset/linux.png">
 </p>
 
 <p>
