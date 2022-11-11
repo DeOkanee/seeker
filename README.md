@@ -1,11 +1,11 @@
-<p align="center"><img src="[asset/seeker.jpg](https://i.postimg.cc/MT3Dhrp6/seeker.jpg)"></p>
+<p align="center"><img src="https://postimg.cc/wyJLN2NZ"></p>
 
 
 <p align="center">
   <br>
   <b>Available in</b>
   <br>
-  <img src="[asset/linux.png](https://i.postimg.cc/fL1HVrnH/linux.png)">
+  <img src="https://postimg.cc/Hc40K3L5">
 </p>
 
 <p>
