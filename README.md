@@ -9,13 +9,13 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
+  <a style="margin-right: 10px;" href="https://deokanee.github.io/seeker#installation">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
+  <a style="margin-right: 10px;" href="https://deokanee.github.io/seeker/#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
+  <a href="https://deokanee.github.io/seeker/#demo">
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
