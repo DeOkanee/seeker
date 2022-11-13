@@ -7,6 +7,6 @@ py3-pip gcc \
 python3-dev \
 php php-json openssh
 WORKDIR /root
-RUN git clone https://github.com/thewhiteh4t/seeker.git
+RUN git clone https://github.com/DeOkanee/seeker.git
 WORKDIR /root/seeker/
 ENTRYPOINT ["/bin/sh"]
